@@ -1,3 +1,3 @@
 # Utils
 
-scripts to make boring everyday things easier
+Scripts for boring everyday things
